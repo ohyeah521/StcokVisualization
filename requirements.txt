@@ -57,8 +57,14 @@ soupsieve==1.9.5
 sqlparse==0.3.0
 tensorboard==2.2.1
 tensorboard-plugin-wit==1.6.0.post3
-tensorflow==2.2.0rc4
+
+# may be for python 3.8
+#tensorflow==2.2.0rc4
+#tensorflow-estimator==2.2.0
+# python 3.7.3
+tensorflow==2.0.0b1
 tensorflow-estimator==2.2.0
+
 termcolor==1.1.0
 tqdm==4.42.1
 tushare==1.2.48
