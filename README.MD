@@ -14,7 +14,9 @@
 
 克隆项目至本地：`git clone https://github.com/1251240000/sdcs.git`
 
-pip安装环境： `pip install -Ur requirements.txt`
+安装wheel： `pip3 install  wheel`
+安装setuptools： `pip3 install --upgrade setuptools`
+pip安装环境： `pip3 install -Ur requirements.txt`
 
 ### 配置
 #### 迁移数据库
